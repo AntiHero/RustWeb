@@ -1,3 +1,3 @@
 ### start
 
-$ **cargo run**
+> $ **cargo run**
